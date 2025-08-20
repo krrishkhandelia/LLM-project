@@ -1,2 +1,2 @@
 # LLM-project
-experimenting with LLMs for fun
+exploring LLMs with hugging face and custom pipeline
